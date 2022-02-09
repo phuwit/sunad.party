@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "firebase": "^9.6.6"
+  },
+  "name": "sunad.party",
+  "description": "Established 09/02/2022 19:32 UTC+7",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phuwit/sunad.party.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phuwit/sunad.party/issues"
+  },
+  "homepage": "https://github.com/phuwit/sunad.party#readme"
+}
