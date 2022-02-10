@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "firebase": "^9.6.6"
+    "firebase": "^9.6.6",
+    "git": "^0.1.3"
   },
   "name": "sunad.party",
   "description": "Established 09/02/2022 19:32 UTC+7",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
