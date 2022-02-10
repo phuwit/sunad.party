@@ -21,6 +21,10 @@
     text-decoration: none;
 }
 
+.container a{
+    object-position: 600px 300px;
+}
+
 .fa-github{
     color: #1b1817ff;
 }
