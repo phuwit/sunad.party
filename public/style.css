@@ -19,6 +19,8 @@
 
 .container a{
     text-decoration: none;
+    height: 5vh;
+    width: 5vw;
 }
 
 .fa-github{
