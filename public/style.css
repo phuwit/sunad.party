@@ -19,6 +19,11 @@
     color: white;
 }
 
+.container h1 a{
+    text-decoration: none;
+    color: darkviolet;
+}
+
 .container a{
     text-decoration: none;
 }
