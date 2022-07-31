@@ -35,3 +35,11 @@
 .fa-github{
     color: #1b1817ff;
 }
+
+.pointing{
+    position: fixed;
+    width: 30%;
+    height: auto;
+    bottom: 0;
+    right: 0;
+}
